@@ -1,2 +1,29 @@
-# Consultant-Onboarding-Portfolio
-Overview of internal onboarding projects completed as part of my software developer role.
+# Consultant Onboarding – Portfolio
+
+This repository is a landing page for my consultant onboarding projects.  
+Each module is a sanitized snapshot focusing on learning outcomes and working code. Proprietary prompts/specs are excluded.
+
+---
+
+## Modules
+
+| Module | Focus | Tech | Repo | Status |
+|---|---|---|---|---|
+| 1 | Java OOP practice – survivor simulation (actions/items, unit tests) | Java · Maven · JUnit | [consultant-module-1-survivor-sim](https://github.com/JeffAlexB/consultant-module-1-survivor-sim) | ✅ Published |
+| 2 | SQL + Java repo pattern (StreamFlix) – DB scripts + console app | Java · Gradle · PostgreSQL | [consultant-module-2-streamflix](https://github.com/JeffAlexB/consultant-module-2-streamflix) | ✅ Published |
+| 3 | Music Label REST API (CRUD, relations, Swagger) | Java · Spring Boot · JPA · PostgreSQL · Gradle | [consultant-module-3-musiclabel-api](https://github.com/JeffAlexB/consultant-module-3-musiclabel-api) | ✅ Published |
+| 4 | (Coming soon) Frontend / Full-stack module | TypeScript · Angular · ... | _TBD_ | 🛠️ In progress |
+
+---
+
+## What I Practiced
+- **Backend fundamentals:** Spring Boot, JPA, layered architecture, testing
+- **Data:** SQL schema design, seed scripts, aggregate queries
+- **Tooling:** Gradle/Maven, Swagger/OpenAPI, CI/CD basics
+- **Collaboration:** branching, code reviews, documenting lessons learned
+
+---
+
+## Notes
+- These repos are **sanitized** for portfolio use. Proprietary material is excluded.
+- Each module’s README has more detail on features and setup.
